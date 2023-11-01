@@ -1,0 +1,46 @@
+{
+    "time_frame": 2,
+    "insta_bot_info": {
+        "username": "insc100",
+        "password": "Alirez@25021382"
+    },
+    "tel_bot_info": {
+        "token": "6648252024:AAE5oYuhxMxeqhsjWVHQSK_GisQfFeqWRI0"
+    },
+    "page1_info": {
+        "username": "thorstyle_",
+        "jsons_files_name": "thorstyle"
+    },
+    "page2_info": {
+        "username": "minoosalari",
+        "jsons_files_name": "minoosalari"
+    },
+    "page3_info": {
+        "username": "shawlus",
+        "jsons_files_name": "shawlus"
+    },
+    "page4_info": {
+        "username": "choob_rakht",
+        "jsons_files_name": "choobrakht"
+    },
+    "page5_info": {
+        "username": "kafshe_alice",
+        "jsons_files_name": "kafshealice"
+    },
+    "page6_info": {
+        "username": "emma_shoes8",
+        "jsons_files_name": "emmashoes8"
+    },
+    "page7_info": {
+        "username": "pink.mooooooon",
+        "jsons_files_name": "pinkmooooooon"
+    },
+    "page8_info": {
+        "username": "lamiz.shoes",
+        "jsons_files_name": "lamizshoes"
+    },
+    "page9_info": {
+        "username": "asenwear",
+        "jsons_files_name": "asenwear"
+    }
+}
